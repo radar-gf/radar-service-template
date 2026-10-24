@@ -1,4 +1,4 @@
-import { HealthReport } from './health-report';
+import { HealthReport } from './health-report.js';
 
 describe('HealthReport', () => {
   it('is up when there are no checks', () => {
